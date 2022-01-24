@@ -1,6 +1,6 @@
-__author__ = "Akriti Dhasmana, Edward Baptiste, Manav Bhilkari, and Luka Mgaloblishvili"
+__author__ = "Akriti Dhasmana, Edward Baptiste, Manav Bilakhia, and Luka Mgaloblishvili"
 __copyright__ = "Copyright 2021, Union College Robotics Crew"
-__credits__ = ["Akriti Dhasmana", "Edward Baptiste", "Manav Bhilkari", "Luka Mgaloblishvili"]
+__credits__ = ["Akriti Dhasmana", "Edward Baptiste", "Manav Bilakhia", "Luka Mgaloblishvili"]
 __version__ = "1.0.1"
 __maintainer__ = "Akriti Dhasmana"
 __email__ = "dhasmana@union.edu"
